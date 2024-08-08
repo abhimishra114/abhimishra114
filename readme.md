@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimishra114&label=Profile%20views&color=0e75b6&style=flat" alt="abhimishra114" /> </p>
 
-- 🏫 I’m currently studying in **Netaji Subhash Engineering College**
-
 - 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **java, DSA and android**
