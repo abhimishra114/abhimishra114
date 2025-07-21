@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhisekh Mishra</h1>
-<h3 align="center">A passionate Java Spring Boot developer and a programming enthusiast from India.</h3>
+<h1 align="center">Hi 👋, I'm Abhisekh</h1>
+<h3 align="center">Backend Developer specializing in Java, Spring Boot, and Microservices, with hands-on experience building
+scalable systems and efficient RESTful APIs.
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
